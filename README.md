@@ -1,3 +1,3 @@
 # zoho-java-training
 
-linux commands
+linux command
